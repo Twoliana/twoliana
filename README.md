@@ -1,7 +1,8 @@
 ## Olá, eu sou a Juliana Marques  <3
 
-<p> Estou cursando Analise e Desenvolvimento de Sistemas <img src="https://media4.giphy.com/media/PQREOabU97PegkjK2w/200.webp?cid=ecf05e47f6720f38cag0zc9t3errhp8vhc6p435g2b0rm771&rid=200.webp&ct=s" width="35"> <br> 
-  Estou aprendendo HTML, CSS e JS  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></p>
+<p> Estou cursando Analise e Desenvolvimento de Sistemas na FATEC SP <img src="https://media4.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif?cid=ecf05e479b71cli5jthqegvmbwns8efpvlihts8hwc1krfhu&rid=giphy.gif&ct=s" width="35"> <br> 
+  Estou aprendendo por conta própria, as linguagens HTML, CSS e JS  <img src="https://media4.giphy.com/media/PQREOabU97PegkjK2w/200.webp?cid=ecf05e47f6720f38cag0zc9t3errhp8vhc6p435g2b0rm771&rid=200.webp&ct=s" width="35"></p>
+  
   <br>
 
 
