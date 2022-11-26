@@ -1,6 +1,7 @@
 ## Olá, eu sou a Juliana Marques  <3
 
-<p> Estou cursando Analise e Desenvolvimento de Sistemas na FATEC SP <img src="https://media4.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif?cid=ecf05e479b71cli5jthqegvmbwns8efpvlihts8hwc1krfhu&rid=giphy.gif&ct=s" width="35"> <br> 
+<p> Estou cursando Analise e Desenvolvimento de Sistemas na FATEC SP <img src="https://media4.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif?cid=ecf05e479b71cli5jthqegvmbwns8efpvlihts8hwc1krfhu&rid=giphy.gif&ct=s" width="35"> <br>
+ <p>A
  
 
 <a href = "mailto:julianamarquessampaio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
