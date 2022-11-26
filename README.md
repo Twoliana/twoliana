@@ -1,6 +1,7 @@
 <h1> Olá, eu sou a Juliana Marques  </h1>
 
-<p> Estou cursando Analise e Desenvolvimento de Sistemas na FATEC SP, atualmente estou no terceiro semestre. </p> <img src="https://media4.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif?cid=ecf05e479b71cli5jthqegvmbwns8efpvlihts8hwc1krfhu&rid=giphy.gif&ct=s" width="35"> <br>
+<p> Estou cursando Analise e Desenvolvimento de Sistemas na FATEC SP, 
+atualmente estou no terceiro semestre.</p> <img src="https://media4.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif?cid=ecf05e479b71cli5jthqegvmbwns8efpvlihts8hwc1krfhu&rid=giphy.gif&ct=s" width="35"> 
  
  
 
