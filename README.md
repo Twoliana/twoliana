@@ -3,7 +3,7 @@
 <p> Estou cursando Analise e Desenvolvimento de Sistemas na FATEC SP, atualmente estou no terceiro semestre. <img src="https://media4.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif?cid=ecf05e479b71cli5jthqegvmbwns8efpvlihts8hwc1krfhu&rid=giphy.gif&ct=s" width="35"> 
 </p> 
 <p> Entusiasta na área de desenvolvimento de sistemas e banco de dados. 
-Apaixonada por todas as possibilidades que a tecnologia nos propõe de mudança de vida e desenvolvimento da nossa sociedade. <br> Acredito que a inclusão de mulheres e pessoas LGBTQ+ na área tech é essencial e enriquecedora. </p> 
+Apaixonada por todas as possibilidades que a tecnologia nos propõe de mudança de vida e desenvolvimento da nossa sociedade. <br> Aqui estão algumas das minhas atividades e projetos de estudo. </p> 
      
      
     
